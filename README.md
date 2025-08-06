@@ -4,27 +4,28 @@
 **Branch:** Information Technology
 **Registration No.:** 25104983
 **Date:** 31st July
+--
 
 The day began with a serene spiritual ceremony at the College Gurudwara Sahib, where students immersed themselves in *Path* and *Kirtan*, fostering a calm and welcoming atmosphere for the journey ahead.
 
+--
 The event was expertly hosted by **Mr. Harsimran Singh**, who warmly welcomed the newcomers and introduced them to the college’s proud heritage with an engaging presentation that ignited curiosity and pride.
-
+--
 Inspiring alumni speakers shared their journeys of dedication and success. **Mr. Singam Arora** (Batch 2021–2025) reflected on how passion and perseverance propelled him to a coveted role as a Software Engineer at Argusoft. Likewise, **Mr. Arshpreet Singh**, fellow IT branch alumnus, highlighted the power of technical expertise and relentless consistency in becoming an Automation Engineer at Airtel.
-
+--
 Faculty members offered pearls of wisdom essential for academic and personal growth. **Dr. Sehijpal Singh**, Principal, emphasized the values of sincerity and dedication. **Dr. Harpreet Kaur**, HOD Applied Sciences, inspired with a powerful success formula: *Passion, Patience, Persistence, Perseverance, and Prayer*. **Dr. Akshay Girdhar**, Dean of Management and Technical Studies, urged students to master time management and discipline. **Dr. Parminder Singh**, Dean of Student Welfare, encouraged optimism, active participation, and focus.
+--
 
 Esteemed guests enriched the event further. **Er. Ravinder Garg**, Chief Engineer, spoke about the impactful role engineers play in society. **Er. Rakesh Kumar**, a 1991 alumnus, motivated students to cultivate strong values and vision. **Mr. Ashok Singla**, Finance Officer, offered valuable advice on financial planning and educational loans.
-
+--
 The day concluded with a heartfelt vote of thanks from **Dr. K.S. Mann**, HOD IT, expressing gratitude to all speakers and participants.
 
+--
+## 📝 Summary
 This Orientation Day beautifully blended spiritual grounding with practical insights, inspiring students to embark on their academic journey with enthusiasm and purpose. 
 
 # 🎓 Induction Day 2 Report
-
-**Name:** Pahulpreet Kaur
-**Branch:** Information Technology (IT)
-**Registration No.:** 25104983
-**Date:** 1st August 2025
+**Date:1/08/2025**
 
 ---
 
@@ -63,11 +64,8 @@ Day 2 of the induction was a perfect blend of academic assessment, wellness guid
 
 
 # 🎓 Induction Day 3 Report
-
-**Name**: Pahulpreet Kaur
-**Branch**: Information Technology (IT)
-**Registration No.**: 25104983
-**Date**: 2nd August 2025
+**Date:02/08/2025**
+--
 
 
 ## 🧩 Interactive Sessions Begin
@@ -95,13 +93,9 @@ The day concluded with a dynamic and interactive discussion centered on the resu
 Induction Day 3 was marked by thoughtful spiritual insights, practical guidance, and engaging student interactions. It successfully combined intellectual stimulation with personal development, laying a strong foundation for a meaningful and balanced college experience.
 
 
-# 🌟 Induction Day 4 Report
-
-**Name:** Pahulpreet Kaur
-**Branch:** Information Technology (IT)
-**Registration No.:** 25104983
-**Date:** 4th August 2025
-
+# 🌟 Induction Day 4 Report 
+**Date-03/08/2025**
+--
 
 ## 🚀 Kickstarting the Week with Communication Excellence
 
@@ -133,11 +127,8 @@ Induction Day 4 was a perfect blend of knowledge, introspection, and cultural vi
 
 
 # 📘 Induction Day 5 Report
-
-**Name**: Pahulpreet Kaur
-**Branch**: Information Technology (IT)
-**Registration No.**: 25104983
 **Date**: 5th August 2025
+--
 
 
 ## 📚 Academic Sessions: Strengthening Foundations
