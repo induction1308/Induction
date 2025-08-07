@@ -1,37 +1,24 @@
-Orientation Day Report
+**Orientation Day Report**
+**Name**: Pahulpreet Kaur
+**Branch**: Information Technology
+**Registration No.**: 25104983
+**Date**: 31st July
 
-**Name:** Pahulpreet Kaur
-**Branch:** Information Technology
-**Registration No.:** 25104983
-**Date:** 31st July
+---
 
+The Orientation Day commenced with a spiritual beginning at the College Gurudwara Sahib, where students participated in *Path* and *Kirtan*. This serene start created a welcoming and reflective atmosphere for the day ahead.
 
+The event was hosted by **Mr. Harsimran Singh**, who warmly greeted the newcomers and introduced them to the institution's heritage through an engaging presentation.
 
-The day began with a serene spiritual ceremony at the College Gurudwara Sahib, where students immersed themselves in *Path* and *Kirtan*, fostering a calm and welcoming atmosphere for the journey ahead.
+Alumni speakers added a motivating touch to the session. **Mr. Singam Arora** (Batch 2021–2025) shared how perseverance and passion helped him secure a role as a **Software Engineer at Argusoft**. **Mr. Arshpreet Singh**, also from the IT branch, highlighted how his technical acumen and consistency led him to become an **Automation Engineer at Airtel**.
 
---
+Several esteemed faculty members shared valuable insights. **Dr. Sehijpal Singh**, Principal of the college, emphasized the importance of sincerity and dedication while upholding the institution’s legacy. **Dr. Harpreet Kaur**, HOD of Applied Sciences, presented a thoughtful success formula: *Passion, Patience, Persistence, Perseverance, and Prayer*. **Dr. Akshay Girdhar**, Dean of Management and Technical Studies, spoke about the significance of time management and discipline. **Dr. Parminder Singh**, Dean of Student Welfare, encouraged students to remain active, optimistic, and focused throughout their academic journey.
 
-The event was expertly hosted by **Mr. Harsimran Singh**, who warmly welcomed the newcomers and introduced them to the college’s proud heritage with an engaging presentation that ignited curiosity and pride.
---
+The event was further enriched by the presence of distinguished guests. **Er. Ravinder Garg**, Chief Engineer at MC Ludhiana, discussed the vital role engineers play in society. **Er. Rakesh Kumar**, a 1991 alumnus, inspired students to cultivate values, skills, and vision. **Mr. Ashok Singla**, Finance Officer, offered practical advice on educational loans and financial planning.
 
-Inspiring alumni speakers shared their journeys of dedication and success. **Mr. Singam Arora** (Batch 2021–2025) reflected on how passion and perseverance propelled him to a coveted role as a Software Engineer at Argusoft. Likewise, **Mr. Arshpreet Singh**, fellow IT branch alumnus, highlighted the power of technical expertise and relentless consistency in becoming an Automation Engineer at Airtel.
---
+The program concluded with a heartfelt vote of thanks delivered by **Dr. K.S. Mann**, HOD of IT, who acknowledged all speakers and participants for their contributions.
 
-
-Faculty members offered pearls of wisdom essential for academic and personal growth. **Dr. Sehijpal Singh**, Principal, emphasized the values of sincerity and dedication. **Dr. Harpreet Kaur**, HOD Applied Sciences, inspired with a powerful success formula: *Passion, Patience, Persistence, Perseverance, and Prayer*. **Dr. Akshay Girdhar**, Dean of Management and Technical Studies, urged students to master time management and discipline. **Dr. Parminder Singh**, Dean of Student Welfare, encouraged optimism, active participation, and focus.
-
---
-
-
-Esteemed guests enriched the event further. **Er. Ravinder Garg**, Chief Engineer, spoke about the impactful role engineers play in society. **Er. Rakesh Kumar**, a 1991 alumnus, motivated students to cultivate strong values and vision. **Mr. Ashok Singla**, Finance Officer, offered valuable advice on financial planning and educational loans.
---
-
-The day concluded with a heartfelt vote of thanks from **Dr. K.S. Mann**, HOD IT, expressing gratitude to all speakers and participants.
-
---
-## 📝 Summary
-This Orientation Day beautifully blended spiritual grounding with practical insights, inspiring students to embark on their academic journey with enthusiasm and purpose
-
+Overall, the orientation was both enlightening and inspiring. It successfully blended spiritual grounding with practical insights, offering a meaningful and memorable start to the academic year.
 # 🎓 Induction Day 2 Report
 **Date:1/08/2025**
 
