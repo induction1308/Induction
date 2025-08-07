@@ -1,11 +1,11 @@
-# Orientation Day Report
+Orientation Day Report
 
 **Name:** Pahulpreet Kaur
 **Branch:** Information Technology
 **Registration No.:** 25104983
 **Date:** 31st July
 
---
+
 
 The day began with a serene spiritual ceremony at the College Gurudwara Sahib, where students immersed themselves in *Path* and *Kirtan*, fostering a calm and welcoming atmosphere for the journey ahead.
 
@@ -30,7 +30,7 @@ The day concluded with a heartfelt vote of thanks from **Dr. K.S. Mann**, HOD IT
 
 --
 ## 📝 Summary
-This Orientation Day beautifully blended spiritual grounding with practical insights, inspiring students to embark on their academic journey with enthusiasm and purpose. 
+This Orientation Day beautifully blended spiritual grounding with practical insights, inspiring students to embark on their academic journey with enthusiasm and purpose
 
 # 🎓 Induction Day 2 Report
 **Date:1/08/2025**
