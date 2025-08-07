@@ -4,20 +4,28 @@
 **Branch:** Information Technology
 **Registration No.:** 25104983
 **Date:** 31st July
+
 --
 
 The day began with a serene spiritual ceremony at the College Gurudwara Sahib, where students immersed themselves in *Path* and *Kirtan*, fostering a calm and welcoming atmosphere for the journey ahead.
 
 --
+
 The event was expertly hosted by **Mr. Harsimran Singh**, who warmly welcomed the newcomers and introduced them to the college’s proud heritage with an engaging presentation that ignited curiosity and pride.
 --
+
 Inspiring alumni speakers shared their journeys of dedication and success. **Mr. Singam Arora** (Batch 2021–2025) reflected on how passion and perseverance propelled him to a coveted role as a Software Engineer at Argusoft. Likewise, **Mr. Arshpreet Singh**, fellow IT branch alumnus, highlighted the power of technical expertise and relentless consistency in becoming an Automation Engineer at Airtel.
 --
+
+
 Faculty members offered pearls of wisdom essential for academic and personal growth. **Dr. Sehijpal Singh**, Principal, emphasized the values of sincerity and dedication. **Dr. Harpreet Kaur**, HOD Applied Sciences, inspired with a powerful success formula: *Passion, Patience, Persistence, Perseverance, and Prayer*. **Dr. Akshay Girdhar**, Dean of Management and Technical Studies, urged students to master time management and discipline. **Dr. Parminder Singh**, Dean of Student Welfare, encouraged optimism, active participation, and focus.
+
 --
+
 
 Esteemed guests enriched the event further. **Er. Ravinder Garg**, Chief Engineer, spoke about the impactful role engineers play in society. **Er. Rakesh Kumar**, a 1991 alumnus, motivated students to cultivate strong values and vision. **Mr. Ashok Singla**, Finance Officer, offered valuable advice on financial planning and educational loans.
 --
+
 The day concluded with a heartfelt vote of thanks from **Dr. K.S. Mann**, HOD IT, expressing gratitude to all speakers and participants.
 
 --
@@ -152,3 +160,86 @@ Prof. Singh’s practical examples and engaging style encouraged students to app
 Day 5 offered a perfect balance of **technical learning** and **peer support**, fostering a strong academic foundation. The differential equations lecture revealed the mathematical depth behind engineering concepts, simplified by Prof. Kaur’s teaching. The C++ session, guided by a senior, was both approachable and motivating, highlighting the collaborative spirit of our college. Finally, Prof. Singh’s electrical engineering lecture stood out for its clarity and real-life relevance, deepening my excitement for the subject.
 
 Overall, the day was enriching and inspiring, underscoring the importance of technical knowledge, peer learning, and interdisciplinary exploration as we embark on our academic journey.
+
+
+--
+
+# Induction Day 6 Report  
+**Date:** 06/08/2025
+
+---
+
+## 📘 P2P Lecture  
+The day began with a Peer-to-Peer (P2P) session conducted by a senior student from the school. The session focused on introducing students to fundamental programming concepts in **C++**, such as **operations and loops**. The interactive and friendly approach created a comfortable learning environment, helping freshers feel more at ease before the start of regular classes.
+
+---
+
+## 🧠 Interactive Session by Prof. Sukhpal Singh  
+**Professor Sukhpal Singh** led an engaging and informative session on core electrical engineering concepts. He thoroughly explained **Ohm's Law**, **Kirchhoff’s Voltage Law (KVL)**, and **Kirchhoff’s Current Law (KCL)**, providing students with a solid foundation for upcoming academic topics.
+
+---
+
+## 🌟 Motivational Talk by Gurcharan Singh Grewal  
+A highly inspiring session was delivered by **Gurcharan Singh Grewal**, a respected member of **SGPC** and a trustee of **GNDEC**. He warmly welcomed the new students into the GNDEC family and congratulated them on reaching this important milestone. His message focused on:
+
+- Staying motivated through challenges  
+- Keeping a strong moral compass  
+- Maintaining spiritual connection with God  
+
+It was a heartfelt and uplifting address that left a lasting impression.
+
+---
+
+## 🌱 CML (Co-Curricular and Moral Learning)  
+**Mr. Lakhvir Singh Khanna** conducted an interactive session to introduce **CML**, an initiative within the GNDEC community focused on areas beyond academics, sports, and culture. He encouraged students to explore diverse interests, especially in **moral and personal development**.
+
+Students also showed enthusiasm by enrolling in **SWAYAM NPTEL** courses, embracing self-paced learning and skill-building opportunities.
+
+---
+
+## 📝 My Perspective  
+**Induction Day 6** was a perfect mix of **technical learning**, **motivation**, and **community bonding**. It provided students not just with information, but with inspiration and a sense of belonging. From understanding C++ basics to getting spiritually uplifted and exploring new learning platforms, the experience marked a strong start to the GNDEC journey.  
+
+> "Education is not just about learning facts, but about learning how to live."  
+> — A core message reflected throughout the day's sessions.
+
+---
+
+# Induction Day 7 Report  
+**Date:** 07/08/2025
+
+---
+
+## 📖 Morning Session – Spiritual Start  
+The day began with the recitation of the **Path**, setting a calm and positive tone for the day ahead.
+
+---
+
+## 💻 Digital Marketing Club Introduction  
+A lecture was delivered by **Dr. Amit Karma**, Head of the **Digital Marketing Club**. He emphasized the importance of **digitalization** in today’s world and highlighted how GNDEC students have showcased their digital creativity and marketing skills through various platforms and projects.
+
+---
+
+## 🏛️ Campus Orientation – Student Welfare  
+**Mr. Parminder Singh**, Dean of Student Welfare, provided an insightful overview of the college. His talk helped students understand the campus structure, student services, and the various resources available for academic and personal development.
+
+---
+
+## 🧪 Academic Framework – Examination  
+**Mr. Randhir Singh** delivered a lecture explaining the **examination system** at GNDEC. He covered assessment methods, internal evaluations, and guidelines to help students prepare effectively throughout the semester.
+
+---
+
+## 🧠 Academic Orientation – First Semester Preview  
+An interactive session with **Professor Nisha** gave students a walk-through of the **first-semester syllabus** and upcoming **academic activities**. Her engaging style helped ease student anxiety and boost enthusiasm for the semester ahead.
+
+---
+
+## 💧 Engineering & Environment – Water Chemistry
+The final session of the day was conducted by **Professor Rajvir Kaur**, who led an insightful discussion on the **importance of water** and its **practical applications in engineering**. Students actively participated and reflected on sustainable practices.
+
+---
+
+## 📝 My Perspective  
+Induction Day 7 offered a rich blend of spiritual grounding, academic clarity, and exposure to campus culture. The sessions were thoughtfully curated to prepare students for both the technical and human aspects of their engineering journey. From understanding how GNDEC students shine in the digital world to learning about exams and environmental responsibility, the day provided great value.
+
